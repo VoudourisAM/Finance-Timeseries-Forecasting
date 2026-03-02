@@ -25,6 +25,8 @@ MAIN.ipynb → Full workflow execution notebook
 
 ML_Forecast
 
+#
+
 ### 🔹 Features
 
 ✔ Financial index data extraction (S&P 500, NASDAQ, Euro Stoxx 50)
