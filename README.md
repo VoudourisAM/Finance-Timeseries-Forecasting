@@ -2,7 +2,7 @@
 
 This project implements an end-to-end Machine Learning pipeline for financial index forecasting using historical market data.
 
-###🔹 Project Structure
+### 🔹 Project Structure
 
 Extract_Data.py → Downloads financial index data using yfinance 
 Extract_Data
@@ -35,7 +35,7 @@ MAIN.ipynb → Full workflow execution notebook
 
 ML_Forecast
 
-🔹 Features
+### 🔹 Features
 
 ✔ Financial index data extraction (S&P 500, NASDAQ, Euro Stoxx 50)
 ✔ Data cleaning & forward filling
@@ -45,13 +45,13 @@ ML_Forecast
 ✔ Model evaluation (RMSE)
 ✔ Cyberpunk-style visualization
 
-🔹 Models Used
+### 🔹 Models Used
 
 Decision Tree Regressor
 
 XGBoost Regressor
 
-🔹 Technologies
+### 🔹 Technologies
 
 Python
 
@@ -65,7 +65,7 @@ yfinance
 
 matplotlib / seaborn
 
-🔹 Workflow
+### 🔹 Workflow
 
 Data Extraction
 
