@@ -37,42 +37,44 @@ This project implements an end-to-end Machine Learning pipeline for financial in
 
 ### 🔹 Models Used
 - Linear Regression
+
 - Decision Tree Regressor
+
 - XGBoost Regressor
 
 #
 
 ### 🔹 Technologies
 
-Python
+- Python
 
-pandas
+- pandas
 
-scikit-learn
+- scikit-learn
 
-xgboost
+- xgboost
 
-yfinance
+- yfinance
 
-matplotlib / seaborn
+- matplotlib / seaborn
 
 #
 
 ### 🔹 Workflow
 
-Data Extraction
+- Data Extraction
 
-Preprocessing
+- Preprocessing
 
-Feature Engineering
+- Feature Engineering
 
-Train/Test Split
+- Train/Test Split
 
-Model Training
+- Model Training
 
-Evaluation
+- Evaluation
 
-Visualization
+- Visualization
 
 #
 
