@@ -7,29 +7,17 @@ This project implements an end-to-end Machine Learning pipeline for financial in
 Extract_Data.py → Downloads financial index data using yfinance 
 Extract_Data
 
-Preprocessing.py → Data cleaning & handling missing values 
+Preprocessing.py → Data cleaning & handling missing values Preprocessing
 
-Preprocessing
+Feature_Engineering.py → Percentage returns & moving averages Feature_Engineering
 
-Feature_Engineering.py → Percentage returns & moving averages 
+train_test_split.py → Train-test split (80/20, no shuffle) train_test_split
 
-Feature_Engineering
+GridSearch.py → Hyperparameter tuning (Decision Tree & XGBoost) GridSearch
 
-train_test_split.py → Train-test split (80/20, no shuffle) 
+ML_Forecast.py → Model training, prediction & RMSE evaluation ML_Forecast
 
-train_test_split
-
-GridSearch.py → Hyperparameter tuning (Decision Tree & XGBoost) 
-
-GridSearch
-
-ML_Forecast.py → Model training, prediction & RMSE evaluation 
-
-ML_Forecast
-
-Visualization.py → Missing data visualization 
-
-Visualization
+Visualization.py → Missing data visualization Visualization
 
 MAIN.ipynb → Full workflow execution notebook 
 
