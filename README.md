@@ -20,11 +20,17 @@ This project implements an end-to-end Machine Learning pipeline for financial in
 ### 🔹 Features
 
 ✔ Financial index data extraction (S&P 500, NASDAQ, Euro Stoxx 50)
+
 ✔ Data cleaning & forward filling
+
 ✔ Feature engineering (returns, moving averages)
+
 ✔ Target shifting for forecasting
+
 ✔ Hyperparameter optimization with GridSearchCV
+
 ✔ Model evaluation (RMSE)
+
 ✔ Cyberpunk-style visualization
 
 #
