@@ -2,6 +2,8 @@
 
 This project implements an end-to-end Machine Learning pipeline for financial index forecasting using historical market data.
 
+#
+
 ### 🔹 Project Structure
 
 Extract_Data.py → Downloads financial index data using yfinance 
