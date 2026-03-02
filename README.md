@@ -1,4 +1,4 @@
-📈 Finance Time Series Forecasting (ML Pipeline)
+# 📈 Finance Time Series Forecasting (ML Pipeline)
 
 This project implements an end-to-end Machine Learning pipeline for financial index forecasting using historical market data.
 
