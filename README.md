@@ -71,9 +71,7 @@ This project implements an end-to-end Machine Learning pipeline for financial in
 - Train/Test Split
 
 - Model Training
-
 - Evaluation
-
 - Visualization
 
 #
