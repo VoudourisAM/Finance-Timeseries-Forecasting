@@ -37,11 +37,14 @@ ML_Forecast
 ✔ Model evaluation (RMSE)
 ✔ Cyberpunk-style visualization
 
+#
+
 ### 🔹 Models Used
+- Linear Regression
+- Decision Tree Regressor
+- XGBoost Regressor
 
-Decision Tree Regressor
-
-XGBoost Regressor
+#
 
 ### 🔹 Technologies
 
@@ -56,6 +59,8 @@ xgboost
 yfinance
 
 matplotlib / seaborn
+
+#
 
 ### 🔹 Workflow
 
@@ -73,6 +78,10 @@ Evaluation
 
 Visualization
 
+#
+
 🎯 Goal
 
 To build a structured ML pipeline for financial time series forecasting with proper validation and hyperparameter tuning.
+
+#
